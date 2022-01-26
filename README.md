@@ -4,13 +4,14 @@ Desarrollo de un servidor en TypeScript
 # Instalar TypeScript 
 Necesito instalar TypeScript de manera global y tambien de manera local
 
-  para instalar typescript de manera global
+  Para instalar typescript de manera global
     npm i -g typescript
-  para instalar typescript de manera local como dependencia de desarrollo
+
+  Para instalar typescript de manera local como dependencia de desarrollo
     npm i typescript --save-dev
 
-para saber que versión de TypeScript tengo instalada
-  tsc --version
+  Para saber que versión de TypeScript tengo instalada
+    tsc --version
 
 # Inicializar el proyecto
 Para inicializar el proyecto dentro de la carpeta
