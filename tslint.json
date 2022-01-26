@@ -1,0 +1,29 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended"
+  ],  
+  "jsRules": {},
+  "rules": {
+    "no-console": false
+  },
+  "no-trailing-whitespace": [
+    true, "ignore-template-strings"
+  ],
+  "type": "array",
+  "items": {
+    "type": "string",
+    "enum": [
+      "ignore-comments",
+      "ignore-jsdoc",
+      "ignore-template-strings",
+      "ignore-blank-lines"
+    ]
+  },
+  "typedef": [
+    true,
+    "call-signature"
+  ],
+
+  "rulesDirectory": []
+}

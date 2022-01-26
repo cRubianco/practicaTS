@@ -1,0 +1,24 @@
+{
+  "name": "practicats",
+  "version": "1.0.0",
+  "description": "Desarrollo de un servidor en TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cRubianco/practicaTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cRubianco/practicaTS/issues"
+  },
+  "homepage": "https://github.com/cRubianco/practicaTS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "tslint": "^6.1.3"
+  }
+}

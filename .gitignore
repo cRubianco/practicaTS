@@ -1,0 +1,7 @@
+# ignorar todos los archivos que terminen en .lock
+*.lock
+package-lock.json
+
+# ignorar las siguientes carpetas
+node_modules
+dist
