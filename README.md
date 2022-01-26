@@ -39,10 +39,12 @@ Esto nos crearan el archivo package.json
     "outDir": "./dist",         // debo crear la carpeta dist 
 
 # Instalar dependencias de desarrollo
+
     npm i tslint nodemon --save-dev
 
 # Inicializar el archivo tslint
   Creo un archivo tslint.json con lo siguiente:
+  
   {
     "defaultSeverity": "error",
     "extends": [
