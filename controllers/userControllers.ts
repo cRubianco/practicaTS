@@ -62,7 +62,6 @@ export const putUser = async(req: Request, res: Response) => {
     }
 
     await user.update( body )
-      // await user.save();
       res.json(user);
       return res.status(200).json({
         msg: `Usuario actualizado exitosamente.`
