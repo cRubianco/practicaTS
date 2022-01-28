@@ -20,7 +20,9 @@
   "homepage": "https://github.com/cRubianco/practicaTS#readme",
   "dependencies": {
     "dotenv": "^14.3.2",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.14.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",

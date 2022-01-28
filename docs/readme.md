@@ -1,7 +1,8 @@
-# Instalo dependencias
+# Instalo 
+  # dependencias
+  npm i express cors dotenv sequelize mysql2
 
-  npm i express cors dotenv
-
+  # dependencias desarrollo
   npm i --save-dev @types/express @types/cors
 
   
